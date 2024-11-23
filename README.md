@@ -29,7 +29,7 @@ XBuyer is an online platform where users can buy and sell second-hand items. The
 ### Steps to Install
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akash-Agarwal-X/X-Buyer.git
+   git clone https://github.com/aartihn/X-Buyer.git
    cd xbuyer
    ```
 
